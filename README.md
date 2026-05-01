@@ -72,7 +72,7 @@ A machine learning platform for forecasting service ticket demand, identifying S
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** linkedin.com/in/kashyap-kaligotla
+- **LinkedIn:** https://www.linkedin.com/in/kashyap-kaligotla/
 - **Email:** vvsaikashyap1505@gmail.com
 - **GitHub:** https://github.com/Kashyap-84
 
