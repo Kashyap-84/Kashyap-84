@@ -2,7 +2,7 @@
 
 ## AI/ML Engineer | Python | GenAI | MLOps | FastAPI | Cloud
 
-I am an AI/ML Engineer with 4 years of experience in Machine Learning and Artificial Intelligence. I build practical, production-style AI solutions using Python, machine learning, NLP, Generative AI, APIs, and cloud-based deployment workflows.
+I am an AI/ML Engineer with 5 years of experience in Machine Learning and Artificial Intelligence. I build practical, production-style AI solutions using Python, machine learning, NLP, Generative AI, APIs, and cloud-based deployment workflows.
 
 I recently completed a contract role and I am currently focused on building real-world AI/ML projects that demonstrate strong engineering, model development, deployment, and documentation skills.
 
